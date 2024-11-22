@@ -1,7 +1,7 @@
 1.just features file is for 2 scenarios raw with no automation
 
 2.features coded for automation testing with half completed
-(dont forget to change the password and phone number from the gerkhin)
+(dont forget to change the password and phone number from the gherkin)
 
 3.there is one reason that the 4th part with has to direct you for entering your password which is not gonna come
 till you have a default chromewebdriver kowork webpage will know see you as an unknown and an unsecure user so they
